@@ -25,7 +25,7 @@ This repository includes dataset conversion, model training, result visualizatio
 
 This project uses the **TT100K** dataset, which contains 100,000 images of traffic signs, collected from real-world traffic scenarios in China. The dataset includes images of various Chinese traffic signs with their annotations.
 
-You can download the dataset from [TT100K dataset official page](http://www.aitr.cn/TT100K/).
+You can download the dataset from [TT100K dataset official page](https://cg.cs.tsinghua.edu.cn/traffic-sign/).
 
 Once downloaded, you can place the dataset in the `data/` folder of the project.
 
